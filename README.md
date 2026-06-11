@@ -27,14 +27,11 @@ Includes bar charts, heatmaps, scatter plots, and trend graphs.
 - Real-time AI adoption tracking
 - Predictive analysis of AI usage trends
 
- ## Results
+## Results
 
-- AI adoption is increasing across industries.
-- Technology companies have the highest adoption rate.
-- Large companies use AI more than small companies.
-- Higher AI usage leads to better satisfaction levels.
+AI adoption is increasing steadily across organizations. Technology companies and large enterprises show the highest adoption rates. The analysis indicates that greater AI usage is associated with higher satisfaction and improved efficiency.
 
 ## Author
-Janani Balambigai S 
-AI & ML Intership Program
-Task 07-AI Tool Adoption Trend Analysis
+- Janani Balambigai S 
+- AI & ML Intership Program
+- Task 07-AI Tool Adoption Trend Analysis
