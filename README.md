@@ -1,78 +1,40 @@
-# AI-Tool-Adoption-Trend-Analysis
 # AI Tool Adoption Trend Analysis
 
-## 1. Problem Statement
+## Problem Statement
+Analyze how AI tools are adopted across industries and understand usage patterns.
 
-Artificial Intelligence (AI) is transforming industries by improving productivity, efficiency, and decision-making. However, AI adoption varies across organizations due to factors such as company size, industry type, investment capacity, and workforce readiness. This project aims to analyze AI adoption trends and identify the factors that influence AI implementation across different organizations.
+## Dataset Description
+Dataset includes AI usage, company size, industry type, satisfaction level, and adoption year.
 
-## 2. Dataset Description
+## Trend Analysis
+- Industry-wise adoption comparison
+- Company size vs AI usage
+- Year-wise adoption growth
 
-The project uses an Enterprise AI Adoption Dataset containing information about organizations from various industries. The dataset includes variables such as Industry, Company Size, Employee Count, AI Tool Used, Adoption Rate, Productivity Gain, Satisfaction Score, AI Investment, Cost Savings, and Adoption Year. The dataset is used to study AI adoption behavior, performance outcomes, and business benefits.
+## Statistical Findings
+- Larger companies show higher AI adoption
+- Tech industry leads in AI usage
+- Satisfaction increases with usage frequency
 
-## 3. Trend Analysis
+## Visual Insights
+Includes bar charts, heatmaps, scatter plots, and trend graphs.
 
-Trend analysis was performed to identify patterns in AI adoption across industries and organizations. The following analyses were conducted:
+## Recommendations
+- Small companies should increase AI adoption
+- Training improves satisfaction and usage
 
-* Industry vs AI Adoption
-* Company Size vs AI Adoption
-* AI Tool vs Satisfaction Score
-* Adoption Year vs Growth
-* Employee Count vs AI Usage
+## Future Scope
+- Real-time AI adoption tracking
+- Predictive analysis of AI usage trends
 
-The analysis revealed that AI adoption has increased significantly in recent years, particularly in the Technology and Finance sectors.
+ ## Results
 
-## 4. Statistical Findings
+- AI adoption is increasing across industries.
+- Technology companies have the highest adoption rate.
+- Large companies use AI more than small companies.
+- Higher AI usage leads to better satisfaction levels.
 
-Descriptive and inferential statistical techniques were used to analyze the dataset.
-
-### Descriptive Statistics
-
-* Mean
-* Median
-* Standard Deviation
-* Quartiles
-* Percentiles
-
-### Correlation Analysis
-
-Relationships between AI adoption, productivity gain, satisfaction score, employee count, investment amount, and cost savings were examined.
-
-### Hypothesis Testing
-
-ANOVA testing was performed to determine whether company size significantly affects AI adoption.
-
-## 5. Visual Insights
-
-Several visualizations were created to represent AI adoption patterns and organizational performance:
-
-* Bar Charts
-* Line Charts
-* Heatmaps
-* Scatter Plots
-* Correlation Matrix
-
-The visual analysis helped identify leading industries, popular AI tools, and key factors influencing adoption.
-
-## 6. Recommendations
-
-Based on the findings, the following recommendations are proposed:
-
-* Increase investment in AI technologies.
-* Conduct employee training and awareness programs.
-* Encourage AI adoption in small and medium-sized organizations.
-* Monitor AI performance and return on investment regularly.
-* Focus on high-impact AI applications to maximize business benefits.
-
-## 7. Future Scope
-
-Future enhancements of this project may include:
-
-* Predictive modeling for AI adoption forecasting.
-* Machine learning-based recommendation systems.
-* Real-time AI adoption monitoring dashboards.
-* Industry-specific AI performance analysis.
-* Advanced business intelligence and decision-support systems.
-
-## Conclusion
-
-The project successfully analyzed AI adoption trends across organizations and identified key factors influencing AI implementation. The findings demonstrate that AI adoption positively impacts productivity, satisfaction, and business performance. These insights can support organizations in making informed decisions regarding future AI investments and digital transformation initiatives.
+## Author
+Janani Balambigai S 
+AI & ML Intership Program
+Task 07-AI Tool Adoption Trend Analysis
