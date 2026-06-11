@@ -32,6 +32,4 @@ Includes bar charts, heatmaps, scatter plots, and trend graphs.
 AI adoption is increasing steadily across organizations. Technology companies and large enterprises show the highest adoption rates. The analysis indicates that greater AI usage is associated with higher satisfaction and improved efficiency.
 
 ## Author
-- Janani Balambigai S 
-- AI & ML Intership Program
-- Task 07-AI Tool Adoption Trend Analysis
+Janani Balambigai S 
